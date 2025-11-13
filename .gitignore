@@ -10,6 +10,7 @@ __pycache__/
 
 testing_docs/
 devices.json
+
 # Distribution / packaging
 .Python
 build/
