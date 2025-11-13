@@ -9,7 +9,6 @@ __pycache__/
 # Misc files and stuff
 
 testing_docs/
-devices.json
 
 # Distribution / packaging
 .Python
